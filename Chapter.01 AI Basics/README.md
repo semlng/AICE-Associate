@@ -43,7 +43,7 @@
 - **딥러닝(Deep Learning)**: 인공신경망(Artificial Neural Network, ANN)을 기반으로 한 머신러닝의 하위 분야
   - 주요 구성 요소:  
     - **뉴런(Neuron)**: 데이터를 입력받아 가중치와 활성화 함수를 통해 처리
-    - **가중치(Weights)**와 **편향(Bias)**: 학습 과정에서 최적화되는 값
+    - 가중치(Weights)와 편향(Bias): 학습 과정에서 최적화되는 값
     - **활성화 함수(Activation Function)**: 입력 신호를 비선형 변환
 - **CNN(Convolutional Neural Network)**: 이미지 데이터 처리에 특화된 딥러닝 모델
 - **RNN(Recurrent Neural Network)**: 순차적 데이터(예: 시계열, 텍스트)를 처리하는 모델
