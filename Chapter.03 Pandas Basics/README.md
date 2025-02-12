@@ -12,7 +12,7 @@
 import pandas as pd
 ```
 
-![image.png](attachment:ca80c2dc-9964-4d75-9e86-c86525be2077:image.png)
+![Image](https://github.com/user-attachments/assets/da360ef6-701e-47bb-9aa5-65292ec7d471)
 
 <br/>
 
@@ -24,7 +24,7 @@ import pandas as pd
     - **Series:** 1차원 배열과 유사하며, 각 요소에 인덱스 라벨을 부여하여 데이터를 저장
     - **DataFrame:** 행과 열로 구성된 2차원 테이블 형태의 자료구조
         
-        ![image.png](attachment:26e3550a-2a9c-45e1-8e22-a8f974776cb5:image.png)
+        ![Image](https://github.com/user-attachments/assets/4aa03dca-9131-4d67-9a70-4f062beece8b)
         
         → 여러 개의 시리즈로 구성
         → 데이터프레임은 데이터를 효율적으로 조작하고 분석하기 위한 다양한 기능을 제공
